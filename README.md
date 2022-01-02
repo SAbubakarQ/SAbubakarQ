@@ -5,7 +5,7 @@ I’m Abubakar Qasim
 
 🌱 - I’m currently learning Python and JavaScript 
 
-🤓 - I've learned C++, Java, and SwiftUI (Yet, learning never ends)
+🤓 - I've currently developed projects using C++, C#, Java, Python, and SwiftUI. 
 
 📬 - Ways To Reach Me:
 
