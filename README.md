@@ -1,4 +1,4 @@
-### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 I’m Abubakar Qasim
 
 🏫 - I’m attending the University of Arkansas 
