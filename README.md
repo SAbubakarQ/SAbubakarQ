@@ -3,9 +3,9 @@ I’m Abubakar Qasim
 
 🏫 - I’m attending the University of Arkansas 
 
-🌱 - I’m currently learning Python and JavaScript 
+🌱 - I’m currently learning Angular and Power BI 
 
-🤓 - I've currently developed projects using C++, C#, Java, Python, and SwiftUI. 
+🤓 - I've currently developed projects using C++, C#, Java, Python, SwiftUI, Angular, SQL, Gradle, Springboot, and Power BI.
 
 📬 - Ways To Reach Me:
 
