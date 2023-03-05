@@ -9,8 +9,6 @@ I’m Abubakar Qasim
 
 📬 - Ways To Reach Me:
 
-<a href="https://twitter.com/sabubakarq">
-  <img align="left" alt="Abubakar Qasim | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sabubakarq//">
   <img align="left" alt="Abubakar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
