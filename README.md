@@ -10,7 +10,7 @@ I’m Abubakar Qasim
 📬 - Ways To Reach Me:
 
 </a>
-<a href="https://www.linkedin.com/in/sabubakarq//">
+<a href="https://www.linkedin.com/in/sabubakarq/">
   <img align="left" alt="Abubakar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
